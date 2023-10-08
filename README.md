@@ -128,3 +128,10 @@
 - In the forecasting setup, determined a forecast length of *15 days* and applied a *95% confidence interval*. These parameters help in generating predictions with a certain level of accuracy and within a defined time frame, assisting in *future planning* and *decision-making*.
 
 ## Business Insights
+- 1. **In both October of 2019 and 2020**, there was a noticeable drop in the number of sales, but an interesting phenomenon was observed: the company's profits during those months were higher compared to other months. This could be attributed to potentially higher profit margins per unit sold during those periods or the influence of special offers or campaigns. Similar trends were noticed in *December* and *March* as well.
+
+- 2. It's evident that most customers prefer to use the *standard delivery mode*. This preference may stem from customers being highly *price-sensitive* and not wanting to incur additional costs for premium product delivery services.
+
+- 3. The predominant choice of payment method is *cash on delivery*. This inclination could arise from customer concerns about the certainty of product delivery when opting for other payment methods, indicating a level of trust and security associated with *cash on delivery*.
+
+- 4. Since *credit card payments* account for the lowest percentage at *22%*, there is an opportunity to encourage more credit card transactions by introducing special offers or incentives. This approach aims to boost *credit card usage* and potentially increase revenue through this payment method.
